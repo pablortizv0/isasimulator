@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+numpy-financial
+scipy
+pydantic
